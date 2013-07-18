@@ -1,4 +1,4 @@
-npchrome
+Neptune's Pride Chrome Extension
 ========
 
 
