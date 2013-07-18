@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "npChrome",
-  "version": "0.1",
+  "version": "0.3",
   "description": "Chrome Extenstion for Neptune's Pride",
   "version": "1.0",
   "background": {"scripts": ["npchrome.js"]},
