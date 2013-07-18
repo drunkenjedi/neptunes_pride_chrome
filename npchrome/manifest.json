@@ -10,8 +10,14 @@
       "default_icon": {"38": "images/favicon.ico"},
       "default_title": "npChrome"
   },
+  "content_scripts": [
+      {
+          "matches": ["http://triton.ironhelmet.com/game/*"],
+          "js": ["jquery-2.0.3.min.js","npmain.js"]
+      }
+  ],
   "permissions" : [
-    "tabs"
+    "tabs", "http://triton.ironhelmet.com/game/*"
   ],
   "icons" : {
       "38" : "images/favicon.ico"
