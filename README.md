@@ -21,7 +21,8 @@ Planned Features
 -Auto-hide diplomacy messages from prying eyes
 -Desktop notifications for new messages and events
 
-
+Installation
+---------------------
 To install Chrome Extension Manually
 1) go to the Extensions page in Chrome (chrome://extensions)
 2) ensure that the "Developer Mode" checkbox is checked
